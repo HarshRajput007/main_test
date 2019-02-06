@@ -3,6 +3,22 @@
     "main": [
 
     {
+    "name":"Android Phones Can Get Hacked Just by Looking at a PNG Image!!",
+    "description":"Beware! You have to remain more caution while opening an image file on your smart-phone—downloaded anywhere from the Internet or received through messaging or email apps...",
+    "image":"https://www.zamzar.com/images/filetypes/png.png",
+    "date":"06-02-2019",
+    "url":"https://hackalpha.blogspot.com/2019/02/android-phones-can-get-hacked-just-by.html"
+    },
+
+    {
+    "name":"Here’s How to Unsend Messages on Facebook Messenger!!",
+    "description":"Last year, it was revealed that Mark Zuckerberg had an option to “unsend” messages that were sent on Facebook Messenger. Once that info came out, everyone who uses Messenger wanted in ...",
+    "image":"https://www.howtogeek.com/wp-content/uploads/2019/02/xMessenger-Remove-Messages-iOS-1.png.pagespeed.gp+jp+jw+pj+ws+js+rj+rp+rw+ri+cp+md.ic.RVr2Lzi0HD.png",
+    "date":"06-02-2019",
+    "url":"https://hackalpha.blogspot.com/2019/02/heres-how-to-unsend-messages-on.html"
+    },
+
+    {
     "name":"YubiKey: Protect your Facebook, Google, and other online accounts with this hardware authentication key!!",
     "description":"Looking for a quick, easy, and affordable way to protect your Google account, Facebook, GitHub, Dropbox, Salesforce admin account. Or maybe you're looking for a way to harden ...",
     "image":"https://www.kryptonitelock.com/content/dam/kryt-us/en/page-images/customerservice/Key-Register/KEYSAFE.desktop.jpg",
