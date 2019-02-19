@@ -3,6 +3,22 @@
     "main": [
 
     {
+    "name":"Kali Linux 2019.1 Released — Operating System For Hackers!!",
+    "description":"Wohooo! Great news for hackers and penetration testers. Offensive Security has just released Kali Linux 2019.1, the first 2019 version of its Swiss army knife for cybersecurity professionals....",
+    "image":"https://k4linux.com/wp-content/uploads/2017/12/unable-locate-package-kali-linux.png",
+    "date":"19-02-2019",
+    "url":"https://hackalpha.blogspot.com/2019/02/kali-linux-20191-released-operating.html"
+    },
+
+    {
+    "name":"WhatsApp now finally lets you refuse group chat invitations!!",
+    "description":"Getting out of a WhatsApp group has always been a somewhat complicated task. And not because pressing the key that takes you out of that chat...",
+    "image":"https://static.whatsapp.net/rsrc.php/v3/yO/r/FsWUqRoOsPu.png",
+    "date":"19-02-2019",
+    "url":"https://hackalpha.blogspot.com/2019/02/whatsapp-now-finally-lets-you-refuse.html"
+    },
+
+    {
     "name":"18000+ Android Apps Caught Violating Google’s Advertising ID Policies!!",
     "description":"In a recent report published by Bleeping Computer, it has been revealed that devices of millions of Android users around the world might have been compromised owing to the popular...",
     "image":"https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/11/mobile-adware-796x448.jpg",
