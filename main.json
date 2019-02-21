@@ -3,6 +3,47 @@
     "main": [
 
     {
+    "name":"Your Password Manager Has A Severe Flaw — But You Should Still Use One!!",
+    "description":"If you are an avid user of password managers, you might just be in for a surprise. A recent study by researchers at the Independent Security Evaluators found that a number of popular...",
+    "image":"https://fossbytes.com/wp-content/uploads/2019/02/password-manager-640x360.jpg",
+    "date":"21-02-2019",
+    "url":"https://hackalpha.blogspot.com/2019/02/your-password-manager-has-severe-flaw.html"
+    },
+
+    {
+    "name":"This 19-Year-Old WinRAR Flaw Lets Hackers Load Malware To PCs!!",
+    "description":"The popular windows file archival tool WinRAR has been in use for over two decades now. The software is used to view, create, pack and unpack archives in both ZIP and RAR formats...",
+    "image":"https://fossbytes.com/wp-content/uploads/2019/02/winrar-bug-640x364.jpg",
+    "date":"21-02-2019",
+    "url":"https://hackalpha.blogspot.com/2019/02/this-19-year-old-winrar-flaw-lets.html"
+    },
+
+    {
+    "name":"Wi-Fi ‘Hiding’ Inside USB Cable: A New Security Threat On The Rise?!!",
+    "description":"Today, the world has become heavily reliant on computers owing to the various advantages they offer. It has thus become imperative that we, as users, remain updated about the various...",
+    "image":"https://fossbytes.com/wp-content/uploads/2019/02/omg-cable-wifi-in-usb-640x338.jpg",
+    "date":"21-02-2019",
+    "url":"https://hackalpha.blogspot.com/2019/02/wi-fi-hiding-inside-usb-cable-new.html"
+    },
+
+    {
+    "name":"Android Gmail App Gets New Design Treatment, And It Looks Good!!",
+    "description":"The Gmail app for Android has started getting the new refreshed interface that Google has also added to many of its other apps and services. For example, Gmail for Desktop.....",
+    "image":"https://fossbytes.com/wp-content/uploads/2019/02/New-Gmail-App-Design-640x360.png",
+    "date":"21-02-2019",
+    "url":"https://hackalpha.blogspot.com/2019/02/android-gmail-app-gets-new-design.html"
+    },
+  
+
+    {
+    "name":"Microsoft’s ‘New Office App’ Starts Landing On Windows 10 PCs!!",
+    "description":"Microsoft said it has started rolling out the redesigned Office app to Windows 10 PCs and in the coming weeks, it will land on all the supported devices that run the current version of Windows 10.....",
+    "image":"https://fossbytes.com/wp-content/uploads/2019/02/Microsoft-Office-app-640x360.jpg",
+    "date":"21-02-2019",
+    "url":"https://hackalpha.blogspot.com/2019/02/microsofts-new-office-app-starts.html"
+    },
+
+    {
     "name":"Kali Linux 2019.1 Released — Operating System For Hackers!!",
     "description":"Wohooo! Great news for hackers and penetration testers. Offensive Security has just released Kali Linux 2019.1, the first 2019 version of its Swiss army knife for cybersecurity professionals....",
     "image":"https://k4linux.com/wp-content/uploads/2017/12/unable-locate-package-kali-linux.png",
