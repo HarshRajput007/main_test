@@ -3,24 +3,8 @@
     "main": [
 
     {
-    "name":"The Application is under Maintainence Due To Project",
-    "description":"Due to some maintanance work, contents are removed! We will be back online soon :)",
-    "image":"",
-    "date":"07-03-19",
-    "url":""
-    },
-
-    {
-    "name":"The Application is under Maintainence!!",
-    "description":"Due to some maintanance work, contents are removed! We will be back online soon :)",
-    "image":"",
-    "date":"",
-    "url":""
-    },
-
-    {
-    "name":"The Application is under Maintainence!!",
-    "description":"Due to some maintanance work, contents are removed! We will be back online soon :)",
+    "name":"The Application is under Development. More features will be added!",
+    "description":"This is the 1st version of my application. More properties will be added soon!",
     "image":"",
     "date":"",
     "url":""
